@@ -1,0 +1,38 @@
+Introducción
+
+Python es un lenguaje de programación de uso libre, permite crear sitios web, juegos, software científico, gráficos, entre otros, siendo uno de los lenguajes más utilizados hoy en la industria desarrolladora.
+
+Creado a finales de 1989 en los países bajos por Guido Van Rossum, quien fue desarrollador de Google y ahora desarrollador de Dropbox, dicho lenguaje de programación hace parte de CWI (Centro de investigaciones holandés de carácter oficial).
+
+Hinojosa (2016) menciona que el nombre "Python" viene dado por la afición de Van Rossum al grupo musical Monty Python Flying Circus, un grupo cómico británico de seis humoristas de los años 1960. Actualmente el logo de Python son dos serpientes pitón (python en inglés) en colores azul y amarillo, ver figura 1.
+
+
+Figura 1. Logo actual de Python
+
+En 1991 se publicó la versión 0.9.0. En 1994 se publicó la versión 1.0, en el 2000 se publicó la versión 2.0 y en el 2008 se publicó la versión 3.0.
+
+Desde 2001 hasta 2018, la Python Software Foundation, es dueña de todo el código, documentación y especificaciones del lenguaje. Después del 2019, el desarrollo de Python está dirigido por un consejo de dirección de cinco miembros elegidos entre los desarrolladores de Python.
+
+La Figura 2 presenta la fecha de publicación de las diferentes versiones de Python. Las versiones con punto rojo se consideran obsoletas, las versiones con punto azul se encuentran en actualizaciones y las versiones con punto blanco corresponden a futuras versiones.
+
+Figura 2. Versiones del lenguaje Python
+
+Python es un lenguaje de programación interpretado, por lo que funciona en cualquier sistema operativo que integre su interpretador.
+
+Dicho lenguaje es multiplataforma y multiparadigma, sirve para desarrollar aplicaciones web o móviles. Este lenguaje de programación dispone de frameworks que apoyan el desarrollo de juegos y algoritmos científicos de cálculos avanzados. Además, es una herramienta conveniente para el área de Machine Learning.
+
+Este lenguaje cuenta con una gran calidad en su sintaxis, utiliza bloques de código, los cuales llevan indentaciones, lo que garantiza una gran legibilidad en el código fuente. El código de Python 2.x no necesariamente debe correr en Python 3.0.
+
+# Ejemplo
+
+----------------------------------
+
+Python 3.x
+
+print (“Hola Mundo”)
+
+----------------------------------
+
+Python 2.x
+
+print "Hola mundo"
